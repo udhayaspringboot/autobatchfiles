@@ -1,0 +1,1 @@
+update department set deptName="Admin1" where deptId=1;
